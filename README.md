@@ -19,3 +19,8 @@
 - xlrd - for excel data [Reference](https://xlrd.readthedocs.io/en/latest/)
 - xlswriter - for excel data [Reference](https://xlsxwriter.readthedocs.io/)
 - tkinter - GUI library
+
+
+
+
+![image](https://github.com/johnosbb/PythonForDigitalHumanities/assets/12407183/e6eb28e3-5a56-42c3-b6d2-0caa2955d9de)
